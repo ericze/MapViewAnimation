@@ -34,3 +34,4 @@ CAKeyFrameAnimation
      xanimation.duration = duration;
      xanimation.delegate = self;
      xanimation.fillMode = kCAFillModeForwards;
+https://github.com/zeroLinWang/MapViewAnimation/blob/master/UIViewAnimation.gif
